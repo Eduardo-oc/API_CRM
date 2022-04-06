@@ -1,14 +1,6 @@
 {
   "clientes": [
     {
-      "name": "Eduardo",
-      "company": "Empresa",
-      "email": "prueba@gmail.com",
-      "phone": "123456789",
-      "notes": "Es un maquina",
-      "id": 1
-    },
-    {
       "name": "Jose Angel",
       "company": "Amazon FBA loco",
       "email": "prueba2@gmail.com",
@@ -17,12 +9,12 @@
       "id": 3
     },
     {
-      "name": "Miguel Angel",
-      "company": "Notiene S.L",
-      "email": "jose@jose.com",
-      "phone": "8766768765",
-      "notes": "",
-      "id": 6
+      "name": "Raul",
+      "company": "Peditos perezSL",
+      "email": "raul@raul.com",
+      "phone": "12312312312",
+      "notes": "Es un friki",
+      "id": 7
     }
   ]
 }

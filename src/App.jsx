@@ -7,8 +7,8 @@ import { EditClient } from './pages/EditClient';
 import { ShowClient } from './pages/ShowClient';
 
 function App() {
-  const [count, setCount] = useState(0)
 
+    console.log(import.meta.env.VITE_API_URL);
   return (
     <BrowserRouter>
       <Routes>
